@@ -4,7 +4,7 @@ github reporitory: https://github.com/igdeufuk/test_project
 
 Prerequisites: 
 
-Java / Maven?
+Java and Maven
 
 Short description:
 
